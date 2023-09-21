@@ -6,7 +6,11 @@
         <groupId>org.sakaiproject</groupId>
         <version>12.5</version>
         <relativePath>master/pom.xml</relativePath>
+
+
+        
     </parent>
+    
 
     <name>Sakai base pom</name>
     <groupId>org.sakaiproject</groupId>
@@ -267,3 +271,5 @@
         </profile>
     </profiles>
 </project>
+ 
+ 
